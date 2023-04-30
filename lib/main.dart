@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 import 'package:portfolio_task/responsive/responsive_layout_screen.dart';
 import 'package:portfolio_task/responsive/web_screen_layout.dart';
 import 'package:portfolio_task/responsive/mobile_screen_layout.dart';
